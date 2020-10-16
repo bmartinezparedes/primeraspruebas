@@ -1,5 +1,5 @@
 # primeraspruebas
-otro mas
-pues otro commit
-desde mi portatil
-desde mi portatil en casa
+otro mas \n
+pues otro commit \n
+desde mi portatil \n
+desde mi portatil en casa \n
